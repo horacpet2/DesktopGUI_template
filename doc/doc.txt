@@ -1,0 +1,33 @@
+
+** Specifikace **
+
+
+
+
+** Body specifikace **
+* požadavek
+* požadavek
+* požadavek
+
+
+** Požadavky **
+<hardware><knihovny><...>
+
+** Poznámky **
+
+
+** Časový plán **
+
+
+** TODO **
+
+
+** DONE **
+
+
+
+** BUGs **
+
+
+
+

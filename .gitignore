@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+*.swp
+*.o
+
+
+/prototype/epson_prototype/nbproject/private/
+/prototype/epson_prototype/build/
+/prototype/epson_prototype/dist/
+/src/v1.1/JavaApplication3/nbproject/private/
+/src/v1.1/md_ucetni_system/nbproject/private/
+/src/v1.1/md_ucetni_system/build/
+=======
+*.swp
+*.o
+*.exe
+
+/prototype/epson_prototype/nbproject/private/
+/prototype/epson_prototype/build/
+/prototype/epson_prototype/dist/
+/src/v1.1/JavaApplication3/nbproject/private/
+/src/v1.1/md_ucetni_system/nbproject/private/
+/src/v1.1/md_ucetni_system/build/
+/build/md_cash_desk
+
